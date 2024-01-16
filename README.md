@@ -1,16 +1,16 @@
 # X-Flowchart-Vue-New
  A visual graph editor based on G6 and Vue.V4.0
 
-  ![image](https://github.com/fengyunworks/X-Flowchart-Vue-New/blob/main/svg.gif)
+  ![image](https://github.com/fengyunworks/X-Flowchart-Vue-New/blob/main/svg.png)
 
   
 
 ## V4.0.0 修改说明
-0，修改原始布局，去除版权LOG
-1.修改VUE.CONFIG.JS支持单文件部署
-2.修改nodeControl.js,index.js,添加Images.js类型,支持图片或base64
-3.修改materials.js，添加2.5D类型图片
-4.解决完善图片不能连线的问题
+### 0，修改原始布局，去除版权LOG
+### 1.修改VUE.CONFIG.JS支持单文件部署
+### 2.修改nodeControl.js,index.js,添加Images.js类型,支持图片或base64
+### 3.修改materials.js，添加2.5D类型图片
+### 4.解决完善图片不能连线的问题
 5.修正图片放大后再连线线错位的问题
 6.保存方法添加调用window.saveg6data
 7.thingsboard仪表板集成
